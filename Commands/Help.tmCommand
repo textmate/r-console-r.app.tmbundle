@@ -61,8 +61,6 @@ MARKDOWN
 html_footer</string>
 	<key>input</key>
 	<string>none</string>
-	<key>keyEquivalent</key>
-	<string></string>
 	<key>name</key>
 	<string>Help</string>
 	<key>output</key>
